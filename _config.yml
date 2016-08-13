@@ -1,0 +1,28 @@
+name: lifeof_rob
+favicon: null
+layout_spectrum: 0.19844911666586995
+typography_spectrum: 0.1268503456376493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09363461402244866
+  lightness: 0.14648373937234282
+  saturation: 0.8639259058982134
+  rhythmicContrast: 0.5560928091872483
+purpose: []
